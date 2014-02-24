@@ -1,0 +1,24 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@ * @;
+
+
+1.1
+date	2013.04.16.07.08.24;	author shuaihua;	state Exp;
+branches;
+next	;
+
+
+desc
+@foo.y,v <-- foo.y
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@@
