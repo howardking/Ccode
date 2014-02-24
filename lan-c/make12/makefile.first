@@ -1,0 +1,11 @@
+bar = hello
+haha = hah
+define two_lines
+	echo $(haha)
+	echo $(bar)
+endef
+
+all:
+	echo $(two_lines)
+
+.PHONY: all
