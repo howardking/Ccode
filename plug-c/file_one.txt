@@ -1,0 +1,4 @@
+hello this my first file
+int this file 
+we will have a test
+the test is about the static var
